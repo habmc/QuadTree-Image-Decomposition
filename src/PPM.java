@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.PrintWriter;
 
-/* Name: PhuongLinh Tran & Phoebe Phan
+/* Name: PhuongLinh Tran & Ha Phan
  * File: PPM.java
  * Desc:
  * This program includes several methods which can be used to read and write a PPM image.
