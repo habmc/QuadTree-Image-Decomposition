@@ -1,4 +1,4 @@
-/* Name: Phoebe Phan & PhuongLinh Tran
+/* Name: Ha Phan & PhuongLinh Tran
  * File: Pixel.java
  * Desc: This class represents a pixel's color using RGB color model
  */
