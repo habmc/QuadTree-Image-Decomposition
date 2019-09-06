@@ -1,6 +1,6 @@
 import java.awt.*;
 
-/* Name: PhuongLinh Tran & Phoebe Phan
+/* Name: PhuongLinh Tran & Ha Phan
  * File: QuadTree.java
  * Desc:
  * This program takes an array of image pixels and generate a quadtree, which is later used to
